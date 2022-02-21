@@ -1,0 +1,19 @@
+{
+    "name": "Kakashi",
+    "symbol": "KKS",
+    "image": "4.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "4.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "7pkXrTCuWXegrVdCJ26ThR7bJvAsJ3ipx1KJxSLUr6Rd",
+          "share": 100
+        }
+      ]
+    }
+  }

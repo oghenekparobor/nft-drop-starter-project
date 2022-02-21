@@ -1,0 +1,46 @@
+{
+    "program": {
+        "uuid": "G8TXBP",
+        "candyMachine": "G8TXBPoej82DWqzTpsKbb7KTj1s6K3XN1VeZJBsetV65"
+    },
+    "items": {
+        "0": {
+            "link": "https://arweave.net/-7IflHfLdxQE7U1ImMzZiUUBN9AM4PWN4t1I6tWLH3Y",
+            "name": "Sasuke",
+            "onChain": true,
+            "verifyRun": true
+        },
+        "1": {
+            "link": "https://arweave.net/SFQj_l9Qotz86F99SdwQ7NxDUUJk6ZQnSFUyUh31EXY",
+            "name": "Naruto",
+            "onChain": true,
+            "verifyRun": true
+        },
+        "2": {
+            "link": "https://arweave.net/xfot_P8ZT2Hfjd_97ZHlTTNtG3Jislj8qdwrSUPUZ5M",
+            "name": "Madara",
+            "onChain": true,
+            "verifyRun": true
+        },
+        "3": {
+            "link": "https://arweave.net/OTs4P-7XDPQRaNnews5PaEnBkOCFnzb243n5PWSdiJ4",
+            "name": "Night Guy",
+            "onChain": true,
+            "verifyRun": true
+        },
+        "4": {
+            "link": "https://arweave.net/nE7XeBXdqGOOwnTxMBFgfiJTIud-fYEih6c63GtkC04",
+            "name": "Kakashi",
+            "onChain": true,
+            "verifyRun": true
+        },
+        "5": {
+            "link": "https://arweave.net/runY3kS3Wam-1GpoXwZ9tjPfum_qotHOTpCvxRG4xT0",
+            "name": "Neji",
+            "onChain": true,
+            "verifyRun": true
+        }
+    },
+    "env": "devnet",
+    "cacheName": "example"
+}
